@@ -32,8 +32,5 @@
 # 
 
 
-rows = 4
-s = 2 * rows - 2
-for i in range(0,rows):
-    for j in range(0,s):
+
         
